@@ -1,29 +1,33 @@
-# About Me
+# 👋 Hi, I’m @Renadeim
 
-Hello, I'm Renadeim! I am a Product Owner with a background in Food Retail and IT-Support.
-I have extensive experience with AutoIT, BASIC, SQL and Product Management, and I have a strong interest in automate. Welcome to my GitHub profile!
+Welcome to my GitHub profile! I’m a versatile tech enthusiast with a passion for smart automation, reliable software solutions, and anything that can be scripted. 💻✨
 
-## My Projects
+## 👀 I’m interested in …
+- 🛠️ IT support & process automation
+- 📦 AutoIt, Batch, and clever everyday tools
+- 🤖 AI chatbots & smart assistant systems
+- 🕹️ Gaming (especially World of Warcraft & Stardew Valley 🌾)
 
-Here are some of the projects I have worked on:
+## 🌱 I’m currently learning …
+- 🧠 Python & integrating AI into existing tools
+- 🔧 Improving and streamlining support workflows
+- ☁️ DevOps & infrastructure (Docker, GitHub Actions, etc.)
 
-### Project 1: [Comming soon]
-- **Description**:
-- **Technologies Used**:
-- **Link**: 
+## 💞️ I’m looking to collaborate on …
+- Everyday IT automation and toolsets
+- Chatbot development (e.g., with Metis / smart Metis)
+- Solutions that make first-level support easier and smarter
 
-### Project 2: [Comming soon]
-- **Description**: 
-- **Technologies Used**: 
-- **Link**:
+## 📫 How to reach me …
+- 📧 Message me here on GitHub
+- 💼 Or via [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/christiangablerit/)) (feel free to connect!)
 
-## Skills
+## 😄 Pronouns:  
+He / Him
 
-- **Programming Languages**: AutoIT, BASIC, SQL
-- **Frameworks and Libraries**: Java
-- **Tools**: 
+## ⚡ Fun fact:  
+I get more systems running than my druid in a raid! And when things go south, I script myself a fire extinguisher. 🔥😉
 
-## Contact Me
+---
 
-- **LinkedIn**: [[LinkedIn URL](https://www.linkedin.com/in/christiangablerit/)](#)
-- **Email**: askme! 
+> 🧙‍♂️ *Renadeim/Renadeim is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.*
